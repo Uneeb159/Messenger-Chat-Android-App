@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738924952598",
+    "project_id": "messenger-app-cf753",
+    "storage_bucket": "messenger-app-cf753.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738924952598:android:c397e9365d349b46b14937",
+        "android_client_info": {
+          "package_name": "com.example.fusechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAncY_9DaCuA6jVGLBj6GcWqhF72cVnYzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
